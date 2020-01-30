@@ -7,7 +7,7 @@ El siguiente proyecto se refiere al análisis de datos de la base de consumo de 
 
 ## Prerequisitos
 
-Se tiene que tener instalado Python 3. Las versiones específicas de paquetes se encuentran recopiladas en el archivo **Requirements.txt**. Estos requerimientos tienen que ser instalados para poder correr el análisis.
+Se tiene que tener instalado Python 3. Las versiones específicas de paquetes se encuentran recopiladas en el archivo **requirements.txt**. Estos requerimientos tienen que ser instalados para poder correr el análisis.
 
 ## Instalación
 
