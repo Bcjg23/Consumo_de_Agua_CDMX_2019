@@ -29,8 +29,6 @@ Se deben seguir los siguientes pasos:
       3.1 Actualizar el nombre del archivo en la linea indicada por **# Update data file name**. Nota que el nombre se debe encontrar entre comillas, por ejemplo *"consumo-agua.csv"*.
       3.2. Actualizar la ruta donde se encuentra el archivo *my_data.csv*, indicada en la linea **# Update path to data file**. Por ejemplo, puedes actualizar la ruta como *"/home/bj/Documents/IntroDataScience/eda_hw/Data"*. Observe que la ruta no contiene el **/** final.
       
+## Reporte final
 
-## Autores
-
-- **Brenda Jiménez**
-- **Guillermo Zarazua**
+https://bcjg23.github.io/Agua_CDMX_2019/Reporte_consumo_agua.html
