@@ -31,4 +31,3 @@ Se deben seguir los siguientes pasos:
       
 ## Reporte final
 
-https://bcjg23.github.io/Agua_CDMX_2019/Reporte_consumo_agua.html
